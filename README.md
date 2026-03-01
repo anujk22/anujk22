@@ -4,7 +4,7 @@
 
 **Computer Science Student @ Rutgers University | Aspiring Software Engineer**
 
-I'm passionate about building impactful software, learning new technologies, and diving into areas like UI/UX design, machine learning, and stock market investing. 
+I'm passionate about building impactful software, solving real world problems, and diving deep into machine learning, artificial intelligence, and algorithmic investing. 
 
 ---
 
