@@ -28,11 +28,6 @@ I'm passionate about building impactful software, solving real world problems, a
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bluetrox)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/anujkakumanu)
 
-
-<div>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=anujk22&theme=gotham&hide_border=false" alt="Anuj's GitHub Streak"/>
-</div>
-
 ---
 
 <br/>
